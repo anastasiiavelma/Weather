@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "cupertino",
+    "Fluttertoast",
+    "hexcolor",
+    "openweathermap",
+    "Roboto",
+    "vsync"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive",
+  "java.compile.nullAnalysis.mode": "automatic"
+}

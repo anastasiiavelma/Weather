@@ -1,0 +1,13 @@
+{
+"weather": "Weather",
+"pleaseAddCity": "Please, add city",
+"pleaseEditCity": "Please, edit edit",
+"adding": "Adding",
+"editing": "Editing",
+"enterCityName": "Enter a city name",
+"cancel": "Cancel",
+"add": "Add",
+"save":"Save",
+"error1": "City name can't be empty",
+"noWeather": "No weather found."
+}
